@@ -3,5 +3,5 @@
 
 | Whats | Up? |
 | ----------- | ----------- |
-| Mood | When |
-| Happy | Always |
+| Mood | Happy |
+| When | Always |
