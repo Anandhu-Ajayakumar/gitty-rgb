@@ -1,7 +1,7 @@
 # gitty-rgb
 ## Hi there 👋
 
-| Whats | Up? |
+| Whats  Up? |
 | ----------- | ----------- |
 | Mood | Happy |
 | When | Always |
