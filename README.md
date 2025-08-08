@@ -1,3 +1,7 @@
 # gitty-rgb
 ## Hi there 👋
-<!--tits
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
