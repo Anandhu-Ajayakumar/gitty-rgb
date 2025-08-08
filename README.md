@@ -1,7 +1,7 @@
 # gitty-rgb
 ## Hi there 👋
 
-| Syntax | Description |
+| Whats | Up? |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Mood | When |
+| Happy | Always |
