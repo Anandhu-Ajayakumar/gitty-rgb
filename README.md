@@ -1,2 +1,2 @@
 # gitty-rgb
-# About me.
+## Hi there 👋
